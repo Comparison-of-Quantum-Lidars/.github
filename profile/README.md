@@ -1,2 +1,1 @@
-This organization is currently under construction. 
-The current repository under development is therefore inaccessible for now. The main repository will be made available shortly.
+This organization is currently under construction. The repository currently under development is temporarily inaccessible. The main repository will be made available soon.
